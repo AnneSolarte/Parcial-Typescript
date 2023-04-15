@@ -1,0 +1,13 @@
+.jokeDiv{
+    width: 15%;
+    background-color: rgb(0, 0, 0);
+    padding: 2%;
+    margin: 2%;
+    border-radius: 0.4em;
+}
+.img{
+    width: 95%;
+}
+.text{
+    color: aliceblue;
+}
